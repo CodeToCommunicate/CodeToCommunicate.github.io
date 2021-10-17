@@ -1,6 +1,2 @@
-# Site settings
-title: Code to Communicate
-
-
-
-theme: jekyll-theme-cayman
+	name: Code to Communicate
+	markdown: kramdown
