@@ -10,11 +10,23 @@ Code to Communicate is a program established to train graduate students programm
 </details>
 
 <details>
+<summary>Learn About The Team</summary>
+<br>
+Application in English. Application in Spanish. 
+</details>
+
+
+<details>
 <summary>Application</summary>
 <br>
 Application in English. Application in Spanish. 
 </details>
 
+<details>
+<summary>Application</summary>
+<br>
+Application in English. Application in Spanish. 
+</details>
 
 
 
